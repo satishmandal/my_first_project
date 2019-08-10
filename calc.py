@@ -2,7 +2,7 @@ def sum(a, b):
 	pass
 
 def multiply(a,b):
-	pass
+	return a*b
 
 def subtract(a,b):
 	pass
